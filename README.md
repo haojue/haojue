@@ -8,7 +8,7 @@
 
 <!-- <a><img align="center" src="https://count.getloli.com/get/@shangxiaaabb?theme=gelbooru-h" alt=":name" /></a> -->
 <p> Skills/Tools </p>
-<a><img src=https://skillicons.dev/icons?i=python,c,cplusplus,java,go,vscode,git,linux,pytorch,openstack,kubernetes&theme=light> </a>
+<a><img src=https://skillicons.dev/icons?i=python,c,java,go,vscode,git,linux,pytorch,openstack,kubernetes&theme=light> </a>
 </div>
 
 </div>
